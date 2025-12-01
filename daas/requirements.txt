@@ -1,0 +1,10 @@
+google-adk==1.19.0
+arize-phoenix
+openinference-instrumentation-google-adk
+
+# Locked OpenTelemetry dependencies required for ADK 1.19.0 compatibility:
+opentelemetry-api==1.37.0
+opentelemetry-sdk==1.37.0
+opentelemetry-exporter-otlp==1.37.0
+opentelemetry-exporter-otlp-proto-grpc==1.37.0
+opentelemetry-exporter-otlp-proto-http==1.37.0

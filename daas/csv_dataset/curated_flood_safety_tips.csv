@@ -1,0 +1,51 @@
+ID,Category,Tip
+EVA_1,Evacuation & Movement,Move immediately to higher ground if flooding starts in your area.
+EVA_2,Evacuation & Movement,"Never walk or drive through floodwaters, even if they look shallow."
+EVA_3,Evacuation & Movement,Keep your evacuation routes planned and known to your family.
+EVA_4,Evacuation & Movement,"If evacuation orders are given, follow them without delay."
+EVA_5,Evacuation & Movement,Keep an emergency bag ready with essential items in case of evacuation.
+EVA_6,Evacuation & Movement,"Assist children, the elderly, and people with disabilities during movement."
+EVA_7,Evacuation & Movement,Use only safe and known routes while evacuating — avoid shortcuts.
+EVA_8,Evacuation & Movement,Avoid traveling at night during heavy rain or flood conditions.
+EVA_9,Evacuation & Movement,Wear sturdy shoes and protective clothing while moving in wet or slippery areas.
+EVA_10,Evacuation & Movement,Inform your neighbors if you are evacuating and check if they need help.
+STA_1,Staying Indoors,Stay indoors if advised and avoid unnecessary movement during floods.
+STA_2,Staying Indoors,Keep all windows and doors securely shut and sealed if needed.
+STA_3,Staying Indoors,Elevate valuable items to higher levels to prevent damage.
+STA_4,Staying Indoors,Monitor water levels nearby from a safe distance while staying inside.
+STA_5,Staying Indoors,Ensure your home has enough ventilation in case of prolonged stay.
+STA_6,Staying Indoors,Stock up on safe drinking water and non-perishable food if confined indoors.
+STA_7,Staying Indoors,Use sandbags or barriers to block water from entering your home.
+STA_8,Staying Indoors,Avoid using elevators during flood conditions — use stairs if evacuation needed.
+STA_9,Staying Indoors,Keep pets indoors and ensure their safety as well.
+STA_10,Staying Indoors,Stay calm and keep a battery-powered radio to stay informed.
+HEA_1,Health & Hygiene,Avoid contact with floodwater; it may be contaminated with sewage or chemicals.
+HEA_2,Health & Hygiene,Always wash your hands with clean water or use sanitizer after contact with floodwater.
+HEA_3,Health & Hygiene,Drink only bottled or boiled water — do not trust tap water during floods.
+HEA_4,Health & Hygiene,Keep wounds clean and covered; seek medical help for signs of infection.
+HEA_5,Health & Hygiene,Dispose of spoiled food immediately to prevent contamination or illness.
+HEA_6,Health & Hygiene,Do not eat food that has come into contact with floodwater.
+HEA_7,Health & Hygiene,Keep a first-aid kit handy and ensure it’s stocked.
+HEA_8,Health & Hygiene,Wear gloves and boots while cleaning or removing debris.
+HEA_9,Health & Hygiene,Report any signs of waterborne disease to health authorities promptly.
+HEA_10,Health & Hygiene,Ensure toilets and sanitation systems are not backing up — use alternatives if needed.
+COM_1,Communication & Information,Save emergency contact numbers offline in case networks go down.
+COM_2,Communication & Information,Listen to local news or weather alerts regularly using a radio or mobile app.
+COM_3,Communication & Information,Inform your family or friends about your location and condition regularly.
+COM_4,Communication & Information,Follow official social media or websites for real-time updates.
+COM_5,Communication & Information,Avoid spreading rumors or unverified information about the flood situation.
+COM_6,Communication & Information,Keep your mobile phones charged and have a power bank ready.
+COM_7,Communication & Information,Let rescue workers know if you see others needing help nearby.
+COM_8,Communication & Information,"Use simple, clear messages when communicating distress over phone or radio."
+COM_9,Communication & Information,Write down important numbers on paper in case your phone dies.
+COM_10,Communication & Information,Teach children how to contact help in case they get separated.
+UTI_1,Utilities & Equipment,"Turn off electricity, gas, and water supply before evacuating your home."
+UTI_2,Utilities & Equipment,Keep battery-operated flashlights and radios easily accessible.
+UTI_3,Utilities & Equipment,Charge all electronic devices and keep a backup power source ready.
+UTI_4,Utilities & Equipment,Do not use electrical appliances that may have come in contact with water.
+UTI_5,Utilities & Equipment,Use dry clothing and blankets to stay warm during cold conditions.
+UTI_6,Utilities & Equipment,Ensure gas cylinders are turned off and kept secure.
+UTI_7,Utilities & Equipment,Avoid lighting candles — use torches to prevent fire hazards.
+UTI_8,Utilities & Equipment,Check for gas leaks and electrical hazards before re-entering a flooded building.
+UTI_9,Utilities & Equipment,Keep important documents sealed in waterproof pouches.
+UTI_10,Utilities & Equipment,"Use only clean, dry equipment after floods to avoid short-circuits or fire."
